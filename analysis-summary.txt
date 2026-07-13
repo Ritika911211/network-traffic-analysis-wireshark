@@ -1,0 +1,19 @@
+Network Traffic Analysis Summary
+
+Tool Used:
+Wireshark
+
+Objective:
+To capture and analyze network packets for educational purposes.
+
+Observations
+
+• Network packets were successfully captured.
+• Multiple protocols were identified.
+• Source and destination addresses were examined.
+• Packet headers were analyzed.
+• Network communication patterns were observed.
+
+Conclusion
+
+This project demonstrates the fundamentals of packet capture and network traffic analysis using Wireshark.
