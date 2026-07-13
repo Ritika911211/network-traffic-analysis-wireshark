@@ -14,14 +14,14 @@ This project demonstrates how Wireshark can be used to capture and analyze netwo
 - Understand the security risks of transmitting sensitive information over HTTP.
 - Learn how packet analysis supports network security and cybersecurity investigations.
 
-  ## 🛠️ Tools Used
+## 🛠️ Tools Used
 
 - **Wireshark**
 - **Windows Operating System**
 - **Web Browser**
 - **Test PHP Vulnerable Web Application**
 
-  ## 🌐 Target Website
+## 🌐 Target Website
 
 **Target:** http://testphp.vulnweb.com/
 
