@@ -1,28 +1,43 @@
-# Credential Sniffing using Wireshark
+# Network Traffic Analysis using Wireshark
 
-## 📌 Project Overview
+A cybersecurity project demonstrating packet capture and network traffic analysis using Wireshark to inspect network communication and identify common protocols.
 
-This project demonstrates how Wireshark can be used to capture and analyze network traffic in a controlled laboratory environment. The objective was to inspect HTTP packets and understand how login credentials transmitted over an unencrypted connection can be observed through packet analysis.
+## Objective
 
-> **Disclaimer:** This project was conducted in a controlled lab environment for educational and ethical cybersecurity learning purposes only..
+The objective of this project is to analyze captured network traffic, identify commonly used protocols, inspect packet details, and understand how devices communicate over a network.
 
-## 🎯 Objective
+## Tool Used
 
-- Capture live network traffic using Wireshark.
-- Analyze HTTP packets generated during a login session.
-- Identify packets containing login requests.
-- Understand the security risks of transmitting sensitive information over HTTP.
-- Learn how packet analysis supports network security and cybersecurity investigations.
+- Wireshark
 
-## 🛠️ Tools Used
+## Features
 
-- **Wireshark**
-- **Windows Operating System**
-- **Web Browser**
-- **Test PHP Vulnerable Web Application**
+- Packet Capture
+- Protocol Analysis
+- Packet Inspection
+- Traffic Monitoring
+- Network Communication Analysis
 
-## 🌐 Target Website
+## Analysis Performed
 
-**Target:** http://testphp.vulnweb.com/
+- Captured live network packets.
+- Examined source and destination addresses.
+- Identified network protocols.
+- Inspected packet headers.
+- Analyzed communication between hosts.
 
-> This intentionally vulnerable website was used in a controlled lab environment for educational purposes only.
+## Screenshots
+
+Screenshots of the packet analysis process are available in the **screenshots** folder.
+
+## Project Outcome
+
+- Successfully captured network traffic.
+- Identified multiple network protocols.
+- Analyzed packet structure.
+- Improved understanding of packet analysis.
+- Learned basic network monitoring techniques.
+
+## Disclaimer
+
+This project was performed only in a controlled environment for educational and ethical learning purposes.
