@@ -1,0 +1,6 @@
+Protocols Observed
+- TCP
+- HTTP
+
+Purpose
+These protocols were identified during packet capture and analyzed to understand network communnication.
