@@ -46,12 +46,12 @@ This project was performed only in a controlled environment for educational and 
 
 ### Packet Capture
 
-![Captured Network Traffic](screenshots/Packet%20Capture.png)
+![Captured Network Traffic](screenshots/Captured-Network-Traffic.png)
 
 ### Protocol Statistics
 
-![TCP Packet Analysis](screenshots/Protocol%20Statistics.png)
+![TCP Packet Analysis](screenshots/TCP-Packet-Analysis.png)
 
 ### Packet Details
 
-![UDP Packet Analysis](screenshots/Packet%20Details.png)
+![UDP Packet Analysis](screenshots/UDP-Packet-Analysis.png)
