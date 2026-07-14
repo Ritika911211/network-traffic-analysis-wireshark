@@ -41,3 +41,17 @@ Screenshots of the packet analysis process are available in the **screenshots** 
 ## Disclaimer
 
 This project was performed only in a controlled environment for educational and ethical learning purposes.
+
+## Project Screenshots
+
+### Packet Capture
+
+![Captured Network Traffic](screenshots/Packet%20Capture.png)
+
+### Protocol Statistics
+
+![TCP Packet Analysis](screenshots/Protocol%20Statistics.png)
+
+### Packet Details
+
+![UDP Packet Analysis](screenshots/Packet%20Details.png)
